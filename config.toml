@@ -1,0 +1,53 @@
+baseURL = "https://portfolio.sheilacallaham.com/"
+publishDir = "docs"
+languageCode = "en-us"
+title = "Sheila Callaham's Portfolio"
+
+[params]
+    name = "Sheila Callaham"
+    description = "Strategy. Execution. Influence."
+    year = 2018
+    favicon = "images/favicon.png"
+    DateForm = "January 2, 2006"
+
+[[params.header.buttons]]
+	title = "Resume"
+	icon = "fas fa-file-alt"
+	url = "docs/sheila-callaham-resume-comms-pr.pdf"
+[[params.header.buttons]]
+	title = "LinkedIn"
+	icon = "fab fa-linkedin"
+	url = "https://www.linkedin.com/in/sheilacallaham/"
+[[params.header.buttons]]
+	title = "Email"
+	icon = "fa fa-envelope"
+	url = "mailto:sheila@sheilacallaham.com"
+
+[[params.social]]
+	title = "facebook"
+	url = "https://www.facebook.com/nickname"
+    icon = "fab fa-facebook-square"
+    footer = true
+    sharethis = true
+    network = "facebook"
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/nickname"
+    icon = "fab fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/nickname"
+    icon = "fab fa-linkedin"
+    footer = true
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
+	title = "email"
+	url = "mailto:some.email@somewhere.com"
+    icon = "fa fa-envelope"
+    footer = true
+    sharethis = true
+    network = "email"

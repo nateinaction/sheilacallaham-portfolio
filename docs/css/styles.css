@@ -1,0 +1,119 @@
+/*
+ * Default
+ */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #eee;
+  font-family: 'Open Sans', sans-serif;
+  position: relative;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+h1 {
+  color: orange;
+  font-size: 6.8rem;
+  font-weight: 700;
+  font-family: 'Lato', sans-serif;
+}
+
+h2 {
+  font-size: 4.0rem;
+  font-weight: 700;
+  font-family: 'Lato', sans-serif;
+  margin-top: 0;
+}
+
+h3 {
+  font-size: 2.4rem;
+  font-family: 'Lato', serif;
+}
+
+h4 {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: 300;
+  font-family: 'Lato', serif;
+  color: rgb(60, 153, 248);
+}
+
+p {
+  font-weight: 400;
+}
+
+img, iframe {
+  max-width: 90%;
+}
+
+.row {
+  margin: 0;
+}
+
+.btn-lg {
+  margin: 1.5rem 0
+}
+
+.btn-toolbar .btn {
+  float: none;
+}
+
+.btn {
+  transition: all .2s ease-in-out;
+}
+
+.btn:hover, .btn:focus, .btn:active, .btn.active, .open > .dropdown-toggle.btn {
+  transform: scale(1.1);
+}
+
+.btn-toolbar>.btn, .btn-toolbar>.btn-group, .btn-toolbar>.input-group {
+    margin-left: 1rem;
+}
+
+/*
+ * Header
+ */
+
+.header {
+  padding: 4.5rem 0;
+}
+
+.profile-image {
+  height: 18rem;
+  border-radius: 50%;
+}
+
+.logo {
+  width: 30rem;
+}
+
+.logo, .description, .header-buttons {
+  padding-top: 1.5rem;
+}
+
+.description {
+  padding-top: 1rem;
+  font-weight: 400;
+  font-size: 1.5rem;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.5;
+}
+
+/*
+ * Content
+ */
+
+.content-title {
+  padding: 1.5rem 0 1rem 0;
+}
+
+/*
+ * Footer
+ */
+
+.copyright {
+  font-size: 0.8rem;
+}
