@@ -106,6 +106,10 @@ img, iframe {
  * Content
  */
 
+.content-row {
+  display: block;
+}
+
 .content-title {
   padding: 1.5rem 0 1rem 0;
 }

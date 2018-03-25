@@ -1,7 +1,7 @@
 <div class="container-fluid">
   <div class="col">
     {{ range .Site.Menus.main }}
-      <div id="{{ .Page.Params.slug }}" class="row">
+      <div id="{{ .Page.Params.slug }}" class="row content-row">
         <h4 class="content-title">{{ .Page.Title }}</h4>
         <div class="content">{{ .Page.Content }}</div>
       </div>
