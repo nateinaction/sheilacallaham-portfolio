@@ -1,10 +1,14 @@
 <div class="container-fluid">
-  <div class="col">
-    {{ range .Site.Menus.main }}
-      <div id="{{ .Page.Params.slug }}" class="row content-row">
-        <h4 class="content-title">{{ .Page.Title }}</h4>
-        <div class="content">{{ .Page.Content }}</div>
-      </div>
-    {{end}}
-  </div>
+{{ range .Site.Menus.main }}
+	{{ if .Page.Params.dark }}
+	<div id="{{ .Page.Params.slug }}" class="row content-row">
+	{{else}}
+	<div id="{{ .Page.Params.slug }}" class="row content-row bg-white">
+	{{end}}
+    	<div class="col p-5">
+        	<h4 class="content-title">{{ .Page.Title }}</h4>
+        	<div class="content">{{ .Page.Content }}</div>
+    	</div>
+    </div>
+{{end}}
 </div>
