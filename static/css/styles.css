@@ -45,7 +45,7 @@ p {
   font-weight: 400;
 }
 
-img, iframe {
+iframe {
   max-width: 90%;
 }
 
@@ -70,7 +70,7 @@ img, iframe {
 }
 
 .btn-toolbar>.btn, .btn-toolbar>.btn-group, .btn-toolbar>.input-group {
-    margin-left: 1rem;
+    margin-left: 0.5rem;
 }
 
 /*
@@ -88,6 +88,7 @@ img, iframe {
 
 .logo {
   width: 30rem;
+  max-width: 90%;
 }
 
 .logo, .description, .header-buttons {
@@ -112,6 +113,14 @@ img, iframe {
 
 .content-title {
   padding: 1.5rem 0 1rem 0;
+}
+
+/*
+ * Carousel
+ */
+
+.carousel-control-next, .carousel-control-prev {
+  width: inherit;
 }
 
 /*
