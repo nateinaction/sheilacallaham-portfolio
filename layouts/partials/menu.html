@@ -1,4 +1,4 @@
-<nav id="main-nav" class="navbar navbar-dark bg-dark fixed-top navbar-expand-md navbar-light bg-light">
+<nav id="main-nav" class="navbar navbar-dark bg-dark fixed-top navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">
     <img src="{{ .Site.BaseURL }}images/favicon.png" width="30" height="30" alt="">
   </a>
@@ -16,5 +16,6 @@
   		    	<a class="nav-link" href="#{{ .Page.Params.slug }}">{{ .Name }}</a>
   		    </li>
       {{end}}
+    </ul>
   </div>
 </nav>
