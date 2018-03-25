@@ -4,7 +4,6 @@ title = "Certificates & Awards"
 type = "certificates-and-awards"
 slug = "certificates-and-awards"
 weight = 7
-dark = true
 +++
 
 {{< inline-gallery >}}
