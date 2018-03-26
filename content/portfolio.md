@@ -12,7 +12,7 @@ weight = 3
 {{< vimeo url="https://player.vimeo.com/video/208051721" >}}
 
 *   As an entrepreneur, I developed and delivered coaching and training on a variety of topics to include how to write a book. Listen to <a href="https://www.sheilacallaham.com/authentic-author-write-book/" target="_blank">**this 90-minute free class offering**</a> that led to one-on-one clients.
-*   Listen to my presentation on increasing business innovation by leveraging the diversity of thought to an audience of 75 Senior Professional in Human Resources professionals. (50 minutes)
+*   Listen to my presentation on increasing business innovation through the diversity of thought, presented to the Triangle Society for Human Resource Management.
 
 {{< audio url="https://www.sheilacallaham.com/wp-content/uploads/2018/03/Innovation-through-Diversity-of-Thought_TSHRM.mp3" >}}
 
