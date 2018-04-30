@@ -22,7 +22,7 @@ Looking back, a consistent theme I heard from colleagues and managers is that I 
 
 What drives me?
 
-Big hairy audacious goals. Commradery. Hard work AND hard play. Learning. Growing. Asking lots of questions. Listening for the threads of similarity between seemingly different positions. Being the best that I can be. Inspiring the best in others.
+Big hairy audacious goals. Comradery. Hard work AND hard play. Learning. Growing. Asking lots of questions. Listening for the threads of similarity between seemingly different positions. Being the best that I can be. Inspiring the best in others.
 
 My goal is to find a company whose vision and mission inspires me — a company I can believe in. It also means finding an environment where my skills will be not only be valued, but also *utilized*. I know I bring a lot to the table and I’m hungry to make a difference.
 
