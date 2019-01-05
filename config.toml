@@ -11,10 +11,6 @@ title = "Sheila Callaham's Portfolio"
     DateForm = "January 2, 2006"
 
 [[params.header.buttons]]
-	title = "Resume"
-	icon = "fas fa-file-alt"
-	url = "docs/sheila-callaham-resume-comms-pr.pdf"
-[[params.header.buttons]]
 	title = "LinkedIn"
 	icon = "fab fa-linkedin"
 	url = "https://www.linkedin.com/in/sheilacallaham/"
